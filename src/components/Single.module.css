@@ -1,0 +1,16 @@
+.singleUser{
+    display: flex;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.title{
+    text-align: center;
+}
+.breadcums{
+    width: 95%;
+    margin: 50px auto
+    
+}
+
